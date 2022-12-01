@@ -59,6 +59,27 @@ This is a list of top papers about data privacy in data management and data scie
 
 * [SNH] [A Neural Database for Diferentially Private Spatial Range Queries](https://arxiv.org/abs/2108.01496) (VLDB22)
 
+## Stream Data Privacy
+
+### Event-level DP
+
+* [PeGaSus] [PeGaSus: Data-Adaptive Differentially Private Stream Processing](https://dl.acm.org/doi/abs/10.1145/3133956.3134102) (CCS17)
+* [Continuous Release of Data Streams under both Centralized and Local Differential Privacy](https://dl.acm.org/doi/abs/10.1145/3460120.3484750) (CCS21)
+
+### Event-level LDP
+
+* [Continuous Release of Data Streams under both Centralized and Local Differential Privacy](https://dl.acm.org/doi/abs/10.1145/3460120.3484750) (CCS21)
+
+### $w$-event DP
+
+* [BD&BA] [Differentially Private Event Sequences over Infinite Streams](https://dl.acm.org/doi/abs/10.14778/2732977.2732989) (VLDB14)
+* [RescueDP] [Real-Time and Spatio-Temporal Crowd-Sourced Social Network Data Publishing with Differential Privacy](https://ieeexplore.ieee.org/abstract/document/7542581) (TDSC18)
+* [AdaPub] [Adaptive Differentially Private Data Stream Publishing in Spatial-Temporal Monitoring of IoT](https://ieeexplore.ieee.org/abstract/document/8958751) (IPCCC19)
+
+### $w$-event LDP
+
+* [LDP-IDS] [LDP-IDS: Local Differential Privacy for Infinite Data Streams](https://arxiv.org/abs/2204.00526) (SIGMOD22)
+* [Continuous Location Statistics Sharing Algorithm with Local Differential Privacy](https://ieeexplore.ieee.org/abstract/document/8621876) (BigData18)
 
 ## DP for Deep Learning
 
